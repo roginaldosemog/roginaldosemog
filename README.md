@@ -1,18 +1,17 @@
-### Bem vindo(a) ao meu perfil no GitHub 👋
+### Sejam bem vindos!
 
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=roginaldosemog)](https://github.com/roginaldosemog)
+Sou um estudante de Engenharia de Software, entrei na UnB em 2015 e gostei tanto que ainda estou fazendo a graduação.
 
-<!--
-**roginaldosemog/roginaldosemog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amo programar e aprender novas tecnologias. Tenho mais experiência no frontend, mas me aventuro no backend também!
 
-Here are some ideas to get you started:
+Acredito que a vida não é fácil, mas meu Mestre me disse pra ter bom ânimo, pois Ele conseguiu vencer os desafios desse mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+#### Sobre mim
 
+- 🔭 Estou focado em terminar a graduação na UnB
+- ⚡ Fun fact: Fui atropelado pelo BRT em 2015, no Gama
+
+#### Meus status no GitHub
+
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=roginaldosemog&theme=chartreuse-dark&show_icons=true&hide_border=true)](https://github.com/roginaldosemog)
+[![Igor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roginaldosemog&theme=chartreuse-dark&layout=compact&hide_border=true)](https://github.com/roginaldosemog)
