@@ -13,12 +13,13 @@ Acredito que a vida não é fácil, mas meu Mestre me disse pra ter bom ânimo, 
 
 #### Sobre mim
 
-- 👨🏻‍💻 Estou focado em terminar a graduação na UnB
-- 🚀 Estou investindo em aprender cada vez mais ReactJS com a [NLW Heat](https://nextlevelweek.com/inscricao/7)
+- 👨🏻‍💻 Desenvolvedor FrontEnd Pleno na ília Culture
+- 🚀 Estou investindo em aprender cada vez mais ReactJS
 - 💬 Se precisar de algo é só chamar
 - ⚡ Fun fact: Fui atropelado pelo BRT em 2015, no Gama
 
 #### Meus status no GitHub
-
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=roginaldosemog&theme=chartreuse-dark&show_icons=true&hide_border=true)](https://github.com/roginaldosemog)
-[![Igor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roginaldosemog&theme=chartreuse-dark&layout=compact&hide_border=true)](https://github.com/roginaldosemog)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roginaldosemog&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roginaldosemog&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+</div>
