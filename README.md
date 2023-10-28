@@ -12,7 +12,7 @@ A vida não é fácil, mas meu Mestre me disse pra ter bom ânimo, pois Ele cons
 
 #### Sobre mim
 
-- 👨🏻‍💻 Desenvolvedor FrontEnd Pleno pela ília
+- 👨🏻‍💻 Open to Work!
 - 🚀 Aprimorando meus conhecimentos em Angular e Java Spring Boot
 - 💬 Se precisar de algo é só chamar no Telegram
 - ⚡ Fun fact: Já fui atropelado por um ônibus e sobrevivi tranquilamente
