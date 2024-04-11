@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/igor-aragao-unb)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/roginaldosemog)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/roginaldosemog/)
 
 Sou um estudante de Engenharia de Software, entrei na UnB em 2015, fiz algumas pausas para focar no trabalho e agora estou na fase final de elaboração do TCC.
 
