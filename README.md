@@ -11,8 +11,8 @@ A vida não é fácil, mas meu Mestre me disse pra ter bom ânimo, pois Ele cons
 
 #### Sobre mim
 
-- 👨🏻‍💻 Open to Work!
-- 🚀 Aprimorando meus conhecimentos em ReactJS e .NET
+- 👨🏻‍💻 Fullstack Developer na Gálago Sistemas
+- 🚀 Aprimorando meus conhecimentos em NodeJS e ReactJS
 - 💬 Se precisar de algo é só chamar no Telegram
 
 #### Meus status no GitHub
