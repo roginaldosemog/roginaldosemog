@@ -15,8 +15,3 @@ A vida não é fácil, mas meu Mestre me disse pra ter bom ânimo, pois Ele cons
 - 🚀 Aprimorando meus conhecimentos em NodeJS e ReactJS
 - 💬 Se precisar de algo é só chamar no [Telegram](https://t.me/roginaldosemog)
 
-#### Meus status no GitHub
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roginaldosemog&show_icons=true&hide_border=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roginaldosemog&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
-</div>
