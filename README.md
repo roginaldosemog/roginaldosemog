@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/igor-aragao-unb)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/roginaldosemog)
 
-Sou um estudante de Engenharia de Software, entrei na UnB em 2015, fiz algumas pausas para focar no trabalho e finalmente concluí o curso no primeiro semestre de 2025.
+Meu nome é Igor e sou engenheiro de software, graduado pela Universidade de Brasilia no ano de 2025.
 
 Amo programar e aprender novas tecnologias. Tenho paixão pelo frontend, mas também amo trabalhar com backend!
 
