@@ -2,7 +2,7 @@
 
 **Desenvolvedor Fullstack | React, React Native, TypeScript e Node.js**
 
-Sou engenheiro de software pela **Universidade de Brasília (UnB)**, formado em 2025 e baseado em Brasília, DF. Desenvolvo aplicações web e mobile, APIs e integrações para e-commerce, fidelidade, serviços financeiros e automação comercial.
+Sou engenheiro de software pela **Universidade de Brasília (UnB)**, formado em 2025. Desenvolvo aplicações web e mobile, APIs e integrações para e-commerce, fidelidade, serviços financeiros e automação comercial.
 
 Gosto de transformar problemas reais em soluções claras, testáveis e fáceis de manter. Tenho paixão pelo front-end e experiência prática no back-end, da interface à integração entre serviços.
 
